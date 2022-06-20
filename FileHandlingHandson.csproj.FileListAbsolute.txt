@@ -1,0 +1,8 @@
+C:\Training\DotNetTraining\FileHandlingHandson\FileHandlingHandson\obj\Debug\FileHandlingHandson.csproj.AssemblyReference.cache
+C:\Training\DotNetTraining\FileHandlingHandson\FileHandlingHandson\obj\Debug\FileHandlingHandson.csproj.SuggestedBindingRedirects.cache
+C:\Training\DotNetTraining\FileHandlingHandson\FileHandlingHandson\obj\Debug\FileHandlingHandson.csproj.CoreCompileInputs.cache
+C:\Training\DotNetTraining\FileHandlingHandson\FileHandlingHandson\bin\Debug\FileHandlingHandson.exe.config
+C:\Training\DotNetTraining\FileHandlingHandson\FileHandlingHandson\bin\Debug\FileHandlingHandson.exe
+C:\Training\DotNetTraining\FileHandlingHandson\FileHandlingHandson\bin\Debug\FileHandlingHandson.pdb
+C:\Training\DotNetTraining\FileHandlingHandson\FileHandlingHandson\obj\Debug\FileHandlingHandson.exe
+C:\Training\DotNetTraining\FileHandlingHandson\FileHandlingHandson\obj\Debug\FileHandlingHandson.pdb
