@@ -1,0 +1,8 @@
+C:\Training\DotNetTraining\Ado.net\Ado.net\obj\Debug\Ado.net.csproj.AssemblyReference.cache
+C:\Training\DotNetTraining\Ado.net\Ado.net\obj\Debug\Ado.net.csproj.SuggestedBindingRedirects.cache
+C:\Training\DotNetTraining\Ado.net\Ado.net\obj\Debug\Ado.net.csproj.CoreCompileInputs.cache
+C:\Training\DotNetTraining\Ado.net\Ado.net\bin\Debug\Ado.net.exe.config
+C:\Training\DotNetTraining\Ado.net\Ado.net\bin\Debug\Ado.net.exe
+C:\Training\DotNetTraining\Ado.net\Ado.net\bin\Debug\Ado.net.pdb
+C:\Training\DotNetTraining\Ado.net\Ado.net\obj\Debug\Ado.net.exe
+C:\Training\DotNetTraining\Ado.net\Ado.net\obj\Debug\Ado.net.pdb
